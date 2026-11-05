@@ -1,0 +1,26 @@
+{
+  "title": "Peak-Time Techno Riffs",
+  "study": "z1501",
+  "bpm": 132,
+  "source_audio": "preview/peak-time-techno-riffs-simple-synth-preview.mp3",
+  "source_audio_sha256": "fbe277ca37a6f3a372969186adda582c327fcd5a707a290b78b055e9d336dd3c",
+  "source_midi": "midi/z1501-peak-time-techno-riffs-opening/z1501-peak-time-techno-riffs-opening-combined.mid",
+  "source_midi_sha256": "f0957968fc6b66794f84701c9abbd9e0a39b252662cd04caa32cb473b86aceff",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "0f0d3ecd1f96eaed14f69ecb47cb0c7667ad0a0ae0dc314806b591f750a86a33",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "fa51988c816882128d31e4cc645284bca6ee9879d5011af823dcd9c5d3f93049",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "952608ffd138965fbd065184546807825d4c25a8c63d837cd3bcd9b4d1a3388b",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

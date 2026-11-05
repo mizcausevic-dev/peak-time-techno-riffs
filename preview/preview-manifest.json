@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/peak-time-techno-riffs-simple-synth-preview.mp3",
+  "preview_sha256": "fbe277ca37a6f3a372969186adda582c327fcd5a707a290b78b055e9d336dd3c",
+  "source_midi_path": "midi/z1501-peak-time-techno-riffs-opening/z1501-peak-time-techno-riffs-opening-combined.mid",
+  "source_midi_sha256": "f0957968fc6b66794f84701c9abbd9e0a39b252662cd04caa32cb473b86aceff",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "z1501",
+    "start_seconds": 0,
+    "end_seconds": 58.182
+  },
+  "measurement": {
+    "sample_peak": 0.142373,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

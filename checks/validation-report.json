@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:57:44.442448+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z1501-peak-time-techno-riffs-opening/chord_pulse.mid",
+      "bytes": 1237,
+      "sha256": "d02a954ef178e75f9293efcd34088865b4b7efa85420970170674f679a29311a",
+      "errors": []
+    },
+    {
+      "path": "midi/z1501-peak-time-techno-riffs-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "c1e301ebeefca76c26b6fae84e78c6f941378b1b6221913255d3fa1a51aca6b1",
+      "errors": []
+    },
+    {
+      "path": "midi/z1501-peak-time-techno-riffs-opening/drums.mid",
+      "bytes": 2986,
+      "sha256": "965e57dab9ba2eef5a9401edd751709a31bb1a59558530d982d3ebe58c47ddb1",
+      "errors": []
+    },
+    {
+      "path": "midi/z1501-peak-time-techno-riffs-opening/principal_motif.mid",
+      "bytes": 797,
+      "sha256": "7b350a03b99ef5ca90cc639afba21c5dd1fcc4b42479c4b8f102345bea94842e",
+      "errors": []
+    },
+    {
+      "path": "midi/z1501-peak-time-techno-riffs-opening/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "adb1563c3c4cd91aa6a750904ee8e9ec2eb43ac314a85710f52d3e20fbd0a7e7",
+      "errors": []
+    },
+    {
+      "path": "midi/z1501-peak-time-techno-riffs-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "600df944e7289cbbee1f027e35816238b80a91a7d8375ce2063a5a98a09e67e4",
+      "errors": []
+    },
+    {
+      "path": "midi/z1501-peak-time-techno-riffs-opening/z1501-peak-time-techno-riffs-opening-combined.mid",
+      "bytes": 5999,
+      "sha256": "f0957968fc6b66794f84701c9abbd9e0a39b252662cd04caa32cb473b86aceff",
+      "errors": []
+    },
+    {
+      "path": "midi/z1502-peak-time-techno-riffs-variation/chord_pulse.mid",
+      "bytes": 1237,
+      "sha256": "c107ef7a2437db44d94478c8f98b323ce4be76e4aa9354cfa3c71c1ac2655d9e",
+      "errors": []
+    },
+    {
+      "path": "midi/z1502-peak-time-techno-riffs-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "b3b1b8c129e84475f0c6909c7836538d0f295720f716aa888ec74d357f18e362",
+      "errors": []
+    },
+    {
+      "path": "midi/z1502-peak-time-techno-riffs-variation/drums.mid",
+      "bytes": 2986,
+      "sha256": "965e57dab9ba2eef5a9401edd751709a31bb1a59558530d982d3ebe58c47ddb1",
+      "errors": []
+    },
+    {
+      "path": "midi/z1502-peak-time-techno-riffs-variation/principal_motif.mid",
+      "bytes": 797,
+      "sha256": "322aa14f4c83b00067f36415679c0da8806a3c946920f18e665107194eaad408",
+      "errors": []
+    },
+    {
+      "path": "midi/z1502-peak-time-techno-riffs-variation/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "720ff04965d341bfa6b081a960ff7cb4be8dbbe921a82ac33083c9063ac14f37",
+      "errors": []
+    },
+    {
+      "path": "midi/z1502-peak-time-techno-riffs-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "1809e632aa8a01c6d74ea435a03e6bc7d3a33b429006605311a8a646d59f2b94",
+      "errors": []
+    },
+    {
+      "path": "midi/z1502-peak-time-techno-riffs-variation/z1502-peak-time-techno-riffs-variation-combined.mid",
+      "bytes": 5999,
+      "sha256": "f7c7d0ae178f26ef5c5d7fb11e59d1b961c5e9610fd78853201c7cab6663b609",
+      "errors": []
+    },
+    {
+      "path": "midi/z1503-peak-time-techno-riffs-contrast/chord_pulse.mid",
+      "bytes": 1237,
+      "sha256": "87284dfc08d4710b21a4e81d0bc40ce066ce343406c091cde53fd987323fef39",
+      "errors": []
+    },
+    {
+      "path": "midi/z1503-peak-time-techno-riffs-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "87d1c7063b2c21a30bae6af7e8a7e277fb81b443fc840a5ab2eeed557c670078",
+      "errors": []
+    },
+    {
+      "path": "midi/z1503-peak-time-techno-riffs-contrast/drums.mid",
+      "bytes": 2986,
+      "sha256": "965e57dab9ba2eef5a9401edd751709a31bb1a59558530d982d3ebe58c47ddb1",
+      "errors": []
+    },
+    {
+      "path": "midi/z1503-peak-time-techno-riffs-contrast/principal_motif.mid",
+      "bytes": 765,
+      "sha256": "a40fdaf6ad1987ae09ebffa31910838764f94026ac63bbba3bf2b419678572ef",
+      "errors": []
+    },
+    {
+      "path": "midi/z1503-peak-time-techno-riffs-contrast/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "4e8aa8ebadae04382e876703c48e4c6fae07c93ca40e4a57a6c986179fce8ffd",
+      "errors": []
+    },
+    {
+      "path": "midi/z1503-peak-time-techno-riffs-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "3bc87192f9f95f0af415def06f3d34665ec56a8c5ecada2235797f42d57a0325",
+      "errors": []
+    },
+    {
+      "path": "midi/z1503-peak-time-techno-riffs-contrast/z1503-peak-time-techno-riffs-contrast-combined.mid",
+      "bytes": 5967,
+      "sha256": "1609cd61293b8233ce30f62f378f7b52a5e249776ff8e77f79f952d8efadc997",
+      "errors": []
+    },
+    {
+      "path": "midi/z1504-peak-time-techno-riffs-return/chord_pulse.mid",
+      "bytes": 1237,
+      "sha256": "4730bb831d0af66b288667777bc5bb1bfaee82d405fbc3023d7fafa86accc5c5",
+      "errors": []
+    },
+    {
+      "path": "midi/z1504-peak-time-techno-riffs-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "d0783efc957e69842ca8121358d4ccbe5e82b05551fb1715170218f76abfe83b",
+      "errors": []
+    },
+    {
+      "path": "midi/z1504-peak-time-techno-riffs-return/drums.mid",
+      "bytes": 2986,
+      "sha256": "965e57dab9ba2eef5a9401edd751709a31bb1a59558530d982d3ebe58c47ddb1",
+      "errors": []
+    },
+    {
+      "path": "midi/z1504-peak-time-techno-riffs-return/principal_motif.mid",
+      "bytes": 765,
+      "sha256": "7bab561fd18686357f43877e25d3513e152c260adb17d654f490ddafa9d1df12",
+      "errors": []
+    },
+    {
+      "path": "midi/z1504-peak-time-techno-riffs-return/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "8e8fdae5eb9653c696a6af9568a5b0fbf14e5395b12c85bc396cf18597770e4f",
+      "errors": []
+    },
+    {
+      "path": "midi/z1504-peak-time-techno-riffs-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "3c7632b55f99bb5858c6661ba82771aa7bcbe28ddb29d3a3f85dae40c9dd3342",
+      "errors": []
+    },
+    {
+      "path": "midi/z1504-peak-time-techno-riffs-return/z1504-peak-time-techno-riffs-return-combined.mid",
+      "bytes": 5967,
+      "sha256": "e129fd0e55b28c6e8c0d2be6f442dba53aafecbc78f8da5babf3d095a8563ca4",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}
