@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/peak-time-techno-riffs-midi.zip",
-      "bytes": 31675,
-      "sha256": "52e18d122f857c919ddd4bd3ccb0b47beef753e26be4925d8e23b1c8d53d2e03"
+      "bytes": 32662,
+      "sha256": "6574281557a81fd08911951fcc348760a684636fab2972efd5f0846f6ccc3671"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9972,
-      "sha256": "0a25184ce87b97dea20b0d2d58b07887a46c9abe6ee715742d0e5084e3b159fb"
+      "bytes": 10162,
+      "sha256": "5cd81dab6f5b30c5115e93efda415607fcfad1f00ee5c63d616b419eaea1d796"
     },
     {
       "path": "midi/z1501-peak-time-techno-riffs-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "e129fd0e55b28c6e8c0d2be6f442dba53aafecbc78f8da5babf3d095a8563ca4"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/peak-time-techno-riffs-simple-synth-preview.mp3",
       "bytes": 1410029,
       "sha256": "fbe277ca37a6f3a372969186adda582c327fcd5a707a290b78b055e9d336dd3c"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3979,
-      "sha256": "fabfaedf24ee8f017569ea8b1a16e8efda6a93a2570bf3cc2870dd2eb2699659"
+      "bytes": 4094,
+      "sha256": "fd97ff4f5f7526ef277e0354f50255b07c11e1f942247f0dae5b912e8c4e92cf"
     },
     {
       "path": "social/instagram/caption.txt",
